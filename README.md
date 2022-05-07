@@ -1,7 +1,7 @@
 # Project-01: Recipes-List
 ## Links
-[Try recipes list here!](https://wadbott.github.io/odin-recipes/)
-[Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+[Try recipes list here!](https://wadbott.github.io/odin-recipes/)  
+[Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)  
 
 
 ## About
