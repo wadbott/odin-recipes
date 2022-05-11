@@ -13,7 +13,7 @@ A simple webpage made during the foundations course on the Odin Project. Clickin
     - Basic CSS
 
 ## Sources
-- Images and recipes
+- Images and recipes  
 [Traditional Mexican Guacamole by Kaersten](https://www.allrecipes.com/recipe/221286/traditional-mexican-guacamole/)  
 [Creamy Dill Cucumber Toasties by Allrecipes Member](https://www.allrecipes.com/recipe/14811/creamy-dill-cucumber-toasties/)  
 [Ba'corn Cheese Corn](https://www.allrecipes.com/recipe/274640/bacorn-cheese-corn/)  
